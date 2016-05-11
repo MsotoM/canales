@@ -1,10 +1,13 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="http://sportsnonstop.com/wp-content/uploads/2015/01/eurosport_fr1.png", EuroSport Francia
 #EXTBG: #336699
+#EXTSIZE: Big
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8?
 #EXTINF:0 player="html5" tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/304.png",Cartoon Network (TP)
 #EXTBG: #ff0000
+#EXTSIZE: Medium
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:-1 player="html5" tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/ufc_network_latinoamerica-mediano.png",UFC NETWORK
 #EXTBG: #00ff00
+#EXTSIZE: Small
 http://199.180.114.174:88/files/ufc972.m3u8
